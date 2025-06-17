@@ -32,9 +32,7 @@ export enum TextGenerationModel {
 }
   
 
-  // In the future, other compatible text models could be added here.
-  // For example: GEMINI_PRO_TEXT = "gemini-pro-text-version"
-}
+
 
 export enum CaptionPlacement {
   IN_UI = "In User Interface",
